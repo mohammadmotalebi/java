@@ -1,0 +1,9 @@
+{
+  "name": "Friendly Smith",
+  "type": "Spell",
+  "_class": "Rouge",
+  "rarity": "Common",
+  "description": "",
+  "manacost": 1,
+  "value": 0
+}

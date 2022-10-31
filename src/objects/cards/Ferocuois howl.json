@@ -1,0 +1,9 @@
+{
+  "name": "Ferocuois howl",
+  "type": "Spell",
+  "_class": "Druid",
+  "rarity": "Common",
+  "description": "Draw a card. gain 1 armor for each card in your hand",
+  "manacost": 3,
+  "value": 50
+}

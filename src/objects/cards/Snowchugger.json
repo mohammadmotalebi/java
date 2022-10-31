@@ -1,0 +1,11 @@
+{
+  "attack": 2,
+  "hp": 3,
+  "name": "Snowchugger",
+  "type": "Minion",
+  "_class": "Rouge",
+  "rarity": "Common",
+  "description": "Freeze",
+  "manacost": 2,
+  "value": 50
+}

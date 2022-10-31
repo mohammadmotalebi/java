@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="GSON-6.0.6">
+    <CLASSES>
+      <root url="c:\jar\GSON-6.0.6.jar!/" />
+      <root url="c:\jar\gson-2.8.5.jar!/" />
+      <root url="c:\jar\jsoup-1.11.3.jar!/" />
+      <root url="c:\jar\logback-classic-1.2.3.jar!/" />
+      <root url="c:\jar\jts-1.13.jar!/" />
+      <root url="c:\jar\logback-core-1.2.3.jar!/" />
+      <root url="c:\jar\slf4j-api-1.7.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

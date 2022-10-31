@@ -1,0 +1,11 @@
+{
+  "attack": 2,
+  "hp": 4,
+  "name": "Waterboy",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Common",
+  "description": "",
+  "manacost": 2,
+  "value": 50
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Polymorph",
+  "type": "Spell",
+  "_class": "Mage",
+  "rarity": "Commen",
+  "description": "make enemy card to 1/1 attack Hp",
+  "manacost": 4,
+  "value": 0
+}

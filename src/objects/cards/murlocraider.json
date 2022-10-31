@@ -1,0 +1,11 @@
+{
+  "attack": 0,
+  "hp": 0,
+  "name": "murlocraider",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Free",
+  "description": "",
+  "manacost": 1,
+  "value": 0
+}

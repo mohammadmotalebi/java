@@ -1,0 +1,11 @@
+{
+  "attack": 2,
+  "hp": 5,
+  "name": "Ancient Mage",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Rare",
+  "description": "battlecry: give adjzcent minions spell damage +1",
+  "manacost": 4,
+  "value": 150
+}

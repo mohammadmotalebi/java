@@ -1,0 +1,9 @@
+{
+  "name": "Rising Winds",
+  "type": "Spell",
+  "_class": "Mage",
+  "rarity": "Common",
+  "description": "twinspel choose one",
+  "manacost": 2,
+  "value": 0
+}

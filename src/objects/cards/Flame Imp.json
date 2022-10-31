@@ -1,0 +1,11 @@
+{
+  "attack": 2,
+  "hp": 1,
+  "name": "Flame Imp",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Common",
+  "description": "",
+  "manacost": 1,
+  "value": 0
+}

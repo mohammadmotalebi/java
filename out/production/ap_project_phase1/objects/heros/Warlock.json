@@ -1,0 +1,7 @@
+{
+  "name": "Warlock",
+  "_class": "Warlock",
+  "power": "he use 2 of his Hp and increase 1 mana and 1 attack of one of minions or  kill 1 enemy card",
+  "special_power": "he has 35 Hp",
+  "HP": 35
+}

@@ -1,0 +1,11 @@
+{
+  "attack": 3,
+  "hp": 5,
+  "name": "Dalaran Aspirant",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Common",
+  "description": "inspire gain spell damage +1",
+  "manacost": 4,
+  "value": 50
+}

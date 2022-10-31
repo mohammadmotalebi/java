@@ -1,0 +1,11 @@
+{
+  "attack": 3,
+  "hp": 2,
+  "name": "Fire Hawk",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Common",
+  "description": "",
+  "manacost": 3,
+  "value": 30
+}

@@ -1,0 +1,9 @@
+{
+  "name": "Juicy Psychmelon",
+  "type": "Spell",
+  "_class": "Warlock",
+  "rarity": "Epic",
+  "description": "draw a 7 8 9 and 10 cost minion from your deck",
+  "manacost": 4,
+  "value": 0
+}

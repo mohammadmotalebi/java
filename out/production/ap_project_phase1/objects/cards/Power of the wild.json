@@ -1,0 +1,9 @@
+{
+  "name": "Power of the wild",
+  "type": "Spell",
+  "_class": "Druid",
+  "rarity": "Common",
+  "description": "Choose one give your minions 1/1 or summon a 3/2 panther",
+  "manacost": 2,
+  "value": 30
+}

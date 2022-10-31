@@ -1,0 +1,9 @@
+{
+  "name": "Wild Growth",
+  "type": "Spell",
+  "_class": "Druid",
+  "rarity": "Free",
+  "description": "Gain an empty Mana Crystal",
+  "manacost": 3,
+  "value": 0
+}

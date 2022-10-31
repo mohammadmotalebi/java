@@ -1,0 +1,11 @@
+{
+  "attack": 4,
+  "hp": 4,
+  "name": "Ogre Magi",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Free",
+  "description": "spell damge +1",
+  "manacost": 4,
+  "value": 0
+}

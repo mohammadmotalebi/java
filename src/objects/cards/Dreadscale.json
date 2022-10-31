@@ -1,0 +1,11 @@
+{
+  "attack": 4,
+  "hp": 2,
+  "name": "Dreadscale",
+  "type": "Minion",
+  "_class": "Warlock",
+  "rarity": "Epic",
+  "description": "+1 more attack",
+  "manacost": 3,
+  "value": 150
+}

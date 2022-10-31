@@ -1,0 +1,9 @@
+{
+  "name": "Moonfire",
+  "type": "Spell",
+  "_class": "Druid",
+  "rarity": "Free",
+  "description": "",
+  "manacost": 0,
+  "value": 0
+}

@@ -1,0 +1,11 @@
+{
+  "attack": 3,
+  "hp": 3,
+  "name": "Ethereal Arcanist",
+  "type": "Minion",
+  "_class": "Rouge",
+  "rarity": "Rare",
+  "description": "if you control a Secret at the end of your turn , gain +2/+2.",
+  "manacost": 4,
+  "value": 100
+}

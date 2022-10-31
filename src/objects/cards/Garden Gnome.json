@@ -1,0 +1,9 @@
+{
+  "name": "Garden Gnome",
+  "type": "Spell",
+  "_class": "Druid",
+  "rarity": "Rare",
+  "description": "Battlecry",
+  "manacost": 4,
+  "value": 100
+}

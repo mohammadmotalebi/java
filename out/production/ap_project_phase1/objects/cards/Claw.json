@@ -1,0 +1,11 @@
+{
+  "attack": 1,
+  "hp": 1,
+  "name": "Claw",
+  "type": "Minion",
+  "_class": "Neutral",
+  "rarity": "Common",
+  "description": "",
+  "manacost": 1,
+  "value": 20
+}
